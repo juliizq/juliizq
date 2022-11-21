@@ -1,16 +1,38 @@
-### Hi there 👋
+# Hola, I'm Juliana ! 👋<br>A passionate Front End developer from Argentina living in Belgium.
+<br>
 
-<!--
-**juliizq/juliizq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>Motivated by the idea of working on bold projects in the world of web development and working close to design.</h3>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **React, animations, graphic design, responsive**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my projects are available at [https://portfolio-juliana-izquierdo.vercel.app/](https://portfolio-juliana-izquierdo.vercel.app/)
+
+- 📫 How to reach me **juliizquierdo15@gmail.com**
+
+## Projects
+
+<details>
+    <summary>React</summary>
+    <p>
+        <table align="center">
+            <tr align="center">
+                <th width="400px"> Name </th>
+                <th width="400px"> Link </th>
+            </tr>
+            <tr align="center">
+                <td>Portfolio</td>
+                <td>
+                    <a href="https://github.com/juliizq/portfolio-juliana-izquierdo">Repo</a> /
+                    <a href="https://portfolio-juliana-izquierdo.vercel.app/">Site</a>
+                </td>
+            </tr>
+                <tr align="center">
+                <td>Landing Page Agency</td>
+                <td>
+                    <a href="https://github.com/juliizq/landingpage-react">Repo</a> /
+                    <a href="https://agency-landing-react-ts.vercel.app/">Site</a>
+                </td>
+            </tr>
+        </table>
+    </p>
+</details> 
