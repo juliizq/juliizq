@@ -20,7 +20,7 @@
                 <th width="400px"> Link </th>
             </tr>
             <tr align="center">
-                <td>Portfolio</td>
+                <td>Portfolio ✨</td>
                 <td>
                     <a href="https://github.com/juliizq/portfolio-juliana-izquierdo">Repo</a> /
                     <a href="https://portfolio-juliana-izquierdo.vercel.app/">Site</a>
@@ -36,3 +36,50 @@
         </table>
     </p>
 </details> 
+<details>
+    <summary>Training Web app developer</summary>
+    <p>
+        <table align="center">
+            <tr align="center">
+                <th width="400px"> Name </th>
+                <th width="400px"> Link </th>
+            </tr>
+            <tr align="center">
+                <td>Pokedex - Api</td>
+                <td>
+                    <a href="https://github.com/juliizq/pokedex-angular">Repo</a>
+                </td>
+            </tr>
+            <tr align="center">
+                <td>CRUD</td>
+                <td>
+                    <a href="https://github.com/juliizq/Hello/tree/master/src/app">Repo</a>
+                </td>
+            </tr>
+        </table>
+    </p>
+</details>
+<details>
+    <summary>HTML/CSS</summary>
+    <p>
+        <table align="center">
+            <tr align="center">
+                <th width="400px"> Name </th>
+                <th width="400px"> Link </th>
+            </tr>
+            <tr align="center">
+                <td>Frontend Mentor - Responsive card</td>
+                <td>
+                    <a href="https://github.com/juliizq/juliizq.github.io">Repo</a>
+                </td>
+            </tr>
+                <tr align="center">
+                <td>Landing Page Agency</td>
+                <td>
+                    <a href="https://github.com/juliizq/landingpage-react">Repo</a> /
+                    <a href="https://agency-landing-react-ts.vercel.app/">Site</a>
+                </td>
+            </tr>
+        </table>
+    </p>
+</details>
