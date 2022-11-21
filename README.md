@@ -12,7 +12,7 @@
 
 ## Projects
 
-<details>
+<details open>
     <summary>Personal projects</summary>
     <p>
         <table align="center">
@@ -53,7 +53,7 @@
            <tr align="center">
                 <td>Frontend Mentor - Responsive card NFT</td>
                 <td>
-                    <p>HTML - CSS</p>
+                    <p>CSS - HTML</p>
                 </td>
                 <td>
                     <a href="https://github.com/juliizq/nft-preview-card-component">Repo</a>
@@ -62,7 +62,7 @@
             <tr align="center">
                 <td>Frontend Mentor - Responsive card order summary</td>
                 <td>
-                    <p>HTML - CSS</p>
+                    <p>CSS - HTML</p>
                 </td>
                 <td>
                     <a href="https://github.com/juliizq/juliizq.github.io">Repo</a>
@@ -71,7 +71,7 @@
             <tr align="center">
                 <td>Calculator</td>
                 <td>
-                    <p>HTML - CSS - JS</p>
+                    <p>JS - CSS - HTML/p>
                 </td>
                 <td>
                     <a href="https://github.com/juliizq/calculator-js">Repo</a>
@@ -102,20 +102,23 @@
             <tr align="center">
                 <td>NodeJS - Multiple exercises</td>
                 <td></td>
+                <td></td>
                 <td>
                     <a href="https://github.com/juliizq/NodeJSCourse">Repo</a>
                 </td>
             </tr>
             <tr align="center">
                 <td>Pokedex - Api</td>
-                <td>Typescript - SASS - HTML</td>
+                <td></td>
+                <td>Typescript - Sass - HTML</td>
                 <td>
                     <a href="https://github.com/juliizq/pokedex-angular">Repo</a>
                 </td>
             </tr>
             <tr align="center">
                 <td>Fan of series - CRUD</td>
-                <td>Typescript - SASS - HTML</td>
+                <td></td>
+                <td>Typescript - Sass - HTML</td>
                 <td>
                     <a href="https://github.com/juliizq/Hello">Repo</a>
                 </td>
