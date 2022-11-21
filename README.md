@@ -80,7 +80,7 @@
         </table>
     </p>
 </details>
-<details>
+<details open>
     <summary>Training Web app developer</summary>
     <p>
         <table align="center">
@@ -102,7 +102,7 @@
             <tr align="center">
                 <td>NodeJS - Multiple exercises</td>
                 <td></td>
-                <td></td>
+                <td>Api - MySql2 - Sequelize - Web server - MongoDB</td>
                 <td>
                     <a href="https://github.com/juliizq/NodeJSCourse">Repo</a>
                 </td>
