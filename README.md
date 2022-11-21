@@ -1,4 +1,5 @@
-# Hola, I'm Juliana ! 👋<br>A passionate Front End developer from Argentina living in Belgium.
+# Hola, I'm Juliana ! 👋<br>A passionate Front End developer.
+<small>From Argentina, living in Belgium.</small>
 <br>
 
 <h3>Motivated by the idea of working on bold projects in the world of web development and working close to design.</h3>
@@ -12,74 +13,114 @@
 ## Projects
 
 <details>
-    <summary>React</summary>
+    <summary>Personal projects</summary>
     <p>
         <table align="center">
             <tr align="center">
                 <th width="400px"> Name </th>
+                <th width="400px"> Stacks </th>
                 <th width="400px"> Link </th>
             </tr>
             <tr align="center">
                 <td>Portfolio ✨</td>
                 <td>
+                    <p>Gsap - Chakra UI - React - Typescript - Sass - Figma</p>
+                </td>
+                <td>
                     <a href="https://github.com/juliizq/portfolio-juliana-izquierdo">Repo</a> /
                     <a href="https://portfolio-juliana-izquierdo.vercel.app/">Site</a>
                 </td>
             </tr>
-                <tr align="center">
-                <td>Landing Page Agency</td>
+            <tr align="center">
+               <td>Landing Page Agency</td>
+               <td>
+                    <p>Chakra UI - React - Typescript</p>
+               </td>
                 <td>
                     <a href="https://github.com/juliizq/landingpage-react">Repo</a> /
                     <a href="https://agency-landing-react-ts.vercel.app/">Site</a>
                 </td>
             </tr>
-        </table>
-    </p>
-</details> 
-<details>
-    <summary>Training Web app developer</summary>
-    <p>
-        <table align="center">
             <tr align="center">
-                <th width="400px"> Name </th>
-                <th width="400px"> Link </th>
-            </tr>
-            <tr align="center">
-                <td>Pokedex - Api</td>
+                <td>Quote generator</td>
                 <td>
-                    <a href="https://github.com/juliizq/pokedex-angular">Repo</a>
+                    <p>JS - CSS - HTML</p>
+                </td>
+                <td>
+                    <a href="https://github.com/juliizq/quote-generator-js">Repo</a>
+                </td>
+            </tr>
+           <tr align="center">
+                <td>Frontend Mentor - Responsive card NFT</td>
+                <td>
+                    <p>HTML - CSS</p>
+                </td>
+                <td>
+                    <a href="https://github.com/juliizq/nft-preview-card-component">Repo</a>
                 </td>
             </tr>
             <tr align="center">
-                <td>CRUD</td>
+                <td>Frontend Mentor - Responsive card order summary</td>
                 <td>
-                    <a href="https://github.com/juliizq/Hello/tree/master/src/app">Repo</a>
+                    <p>HTML - CSS</p>
+                </td>
+                <td>
+                    <a href="https://github.com/juliizq/juliizq.github.io">Repo</a>
+                </td>
+            </tr>
+            <tr align="center">
+                <td>Calculator</td>
+                <td>
+                    <p>HTML - CSS - JS</p>
+                </td>
+                <td>
+                    <a href="https://github.com/juliizq/calculator-js">Repo</a>
                 </td>
             </tr>
         </table>
     </p>
 </details>
 <details>
-    <summary>HTML/CSS</summary>
+    <summary>Training Web app developer</summary>
     <p>
         <table align="center">
             <tr align="center">
                 <th width="400px"> Name </th>
+                <th width="400px"> About </th>
+                <th width="400px"> Stacks </th>
                 <th width="400px"> Link </th>
             </tr>
             <tr align="center">
-                <td>Frontend Mentor - Responsive card</td>
+                <td>Final project - "Real" </td>
+                <td>Application of clothing review with the aim of being able to find clothes easily for all types of morphology.</td>
+                <td>CSS - Angular - JS - NodeJS - Bcrypt - Express - Joi - JsonWebToken - MySql2 - Sequelize</td>
                 <td>
-                    <a href="https://github.com/juliizq/juliizq.github.io">Repo</a>
+                    <a href="https://github.com/juliizq/real_angular">Front end</a> / <br />
+                    <a href="https://github.com/juliizq/real_nodejs">Back end</a>
                 </td>
             </tr>
-                <tr align="center">
-                <td>Landing Page Agency</td>
+            <tr align="center">
+                <td>NodeJS - Multiple exercises</td>
+                <td></td>
                 <td>
-                    <a href="https://github.com/juliizq/landingpage-react">Repo</a> /
-                    <a href="https://agency-landing-react-ts.vercel.app/">Site</a>
+                    <a href="https://github.com/juliizq/NodeJSCourse">Repo</a>
                 </td>
             </tr>
+            <tr align="center">
+                <td>Pokedex - Api</td>
+                <td>Typescript - SASS - HTML</td>
+                <td>
+                    <a href="https://github.com/juliizq/pokedex-angular">Repo</a>
+                </td>
+            </tr>
+            <tr align="center">
+                <td>Fan of series - CRUD</td>
+                <td>Typescript - SASS - HTML</td>
+                <td>
+                    <a href="https://github.com/juliizq/Hello">Repo</a>
+                </td>
+            </tr>
+            <tr align="center">
         </table>
     </p>
 </details>
