@@ -24,7 +24,7 @@
             <tr align="center">
                 <td>Portfolio ✨</td>
                 <td>
-                    <p>Gsap - Chakra UI - React - Typescript - Sass - Figma</p>
+                    <p>Framer Motion - Chakra UI - React - Typescript - Sass - Figma</p>
                 </td>
                 <td>
                     <a href="https://github.com/juliizq/portfolio-juliana-izquierdo">Repo</a> /
