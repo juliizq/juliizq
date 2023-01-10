@@ -22,6 +22,16 @@
                 <th width="400px"> Link </th>
             </tr>
             <tr align="center">
+                <td>Product Catalog</td>
+                <td>
+                    <p>Chakra UI - React - Typescript - Next.js - MongoDB</p>
+                </td>
+                <td>
+                    <a href="https://github.com/juliizq/product-catalog-api">Repo</a> /
+                    <a href="https://product-catalog-api.vercel.app/">Site</a>
+                </td>
+            </tr>
+            <tr align="center">
                 <td>Portfolio ✨</td>
                 <td>
                     <p>Framer Motion - Chakra UI - React - Typescript - Sass - Figma</p>
