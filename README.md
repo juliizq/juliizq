@@ -4,7 +4,7 @@
 
 <h3>Motivated by the idea of working on bold projects in the world of web development and working close to design.</h3>
 
-- 🌱 I’m currently learning **React, animations, graphic design, responsive**
+- 🌱 I’m currently learning **React, Vue, animations, graphic design, responsive**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-juliana-izquierdo.vercel.app/](https://portfolio-juliana-izquierdo.vercel.app/)
 
