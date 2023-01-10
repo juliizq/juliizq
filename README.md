@@ -71,7 +71,7 @@
             <tr align="center">
                 <td>Calculator</td>
                 <td>
-                    <p>JS - CSS - HTML/p>
+                    <p>JS - CSS - HTML</p>
                 </td>
                 <td>
                     <a href="https://github.com/juliizq/calculator-js">Repo</a>
