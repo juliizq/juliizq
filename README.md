@@ -1,14 +1,8 @@
-# Hola, I'm Juliana ! 👋<br>A passionate Front End developer.
-<small>From Argentina, living in Belgium.</small>
+# Hola, I'm Juliana ! 👋
+
 <br>
 
-<h3>Motivated by the idea of working on bold projects in the world of web development and working close to design.</h3>
-
-- 🌱 I’m currently learning **React, Vue, animations, graphic design, responsive**
-
 - 👨‍💻 All of my projects are available at [https://portfolio-juliana-izquierdo.vercel.app/](https://portfolio-juliana-izquierdo.vercel.app/)
-
-- 📫 How to reach me **juliizquierdo15@gmail.com**
 
 ## Projects
 
